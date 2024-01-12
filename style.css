@@ -1,0 +1,38 @@
+html {
+scroll-behavior: smooth;
+}
+
+#jumbotron {
+    padding-top: 5rem;
+    background-color: #f9ff52;
+}
+
+#jumbotron img {
+    width: 200px;
+}
+
+#projects {
+    background-color: #f9ff52;
+}
+
+#projects img {
+    width: 480px;
+    height: 270px;
+}
+
+#contact {
+    background-color: #f9ff52;
+}
+
+#footer p  {
+    color: #666;
+}
+
+#footer a {
+    text-decoration: none;
+    color: #666;
+}
+
+section {
+    padding-top: 5rem;
+}

@@ -2,6 +2,14 @@ html {
 scroll-behavior: smooth;
 }
 
+nav img {
+    width: 35px;
+}
+
+nav p {
+    float: right;
+    margin-top: 5px;
+}
 #jumbotron {
     padding-top: 5rem;
     background-color: #232426;

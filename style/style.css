@@ -4,8 +4,8 @@ scroll-behavior: smooth;
 
 #jumbotron {
     padding-top: 5rem;
-    background-color: #f9ff52;
-    background-image: url(img/Hero.jpg);
+    background-color: #232426;
+    background-image: url(../img/Hero.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -20,7 +20,7 @@ scroll-behavior: smooth;
 }
 
 #projects {
-    background-color: #f9ff52;
+    background-color: #232426;
 }
 
 #projects img {
@@ -29,7 +29,7 @@ scroll-behavior: smooth;
 }
 
 #contact {
-    background-color: #f9ff52;
+    background-color: #232426;
 }
 
 #footer p  {

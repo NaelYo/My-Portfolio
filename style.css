@@ -11,6 +11,10 @@ scroll-behavior: smooth;
     width: 200px;
 }
 
+#about p {
+    text-align: justify;
+}
+
 #projects {
     background-color: #f9ff52;
 }
@@ -36,3 +40,4 @@ scroll-behavior: smooth;
 section {
     padding-top: 5rem;
 }
+

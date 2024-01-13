@@ -17,6 +17,7 @@ nav p {
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
+    overflow: hidden;
 }
 
 #jumbotron img {

@@ -27,3 +27,5 @@ $(window).scroll(function(){
 
 
 });
+
+var nama = prompt("masukan nama")

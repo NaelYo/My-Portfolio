@@ -12,7 +12,7 @@ nav p {
 }
 
 #jumbotron {
-    padding-top: 5rem;
+    padding-top: 7rem;
     background-color: #232426;
     background-image: url(../img/Hero.jpg);
     background-attachment: fixed;
@@ -51,9 +51,12 @@ nav p {
     color: #666;
 }
 
+.jumbotronWave {
+    position: relative;
+}
+
 section {
     padding-top: 5rem;
-    margin-top: -50px;
 }
 
 .overlay {

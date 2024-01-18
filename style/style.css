@@ -15,6 +15,31 @@ nav p {
     margin-top: 5px;
 }
 
+nav ul li a {
+    margin-right: 7px;
+    font-size: 18px;
+}
+
+nav ul li a:hover {
+    color: #fff;
+    -webkit-filter: drop-shadow(0 0 2px #fff);
+    filter: drop-shadow(0 0 2px #fff);
+}
+
+nav ul li a::after {
+    content: " ";
+    display: block;
+    border-bottom: 3px solid white;
+    transform: scale(0);
+    transition: 0.3s;
+}
+
+nav ul li a:hover::after {
+    transform: scale(1);
+}
+
+
+
 #jumbotron {
     padding-top: 7rem;
     background-color: #232426;
@@ -27,6 +52,12 @@ nav p {
 
 #jumbotron img {
     width: 200px;
+}
+
+#jumbotron img:hover {
+    color: #fff;
+    -webkit-filter: drop-shadow(0 0 2px #fff);
+    filter: drop-shadow(0 0  2px #fff);
 }
 
 #about p {

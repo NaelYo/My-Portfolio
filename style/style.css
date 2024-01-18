@@ -2,6 +2,10 @@ html {
 scroll-behavior: smooth;
 }
 
+nav {
+    background-color: #232426;
+}
+
 nav img {
     width: 35px;
 }
